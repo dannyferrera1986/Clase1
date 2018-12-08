@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void AddButtonActions() {
         final  EditText resultado =findViewById(R.id.val2);
-        Button numero1=findViewById(R.id.Num1);
+       
         Button numero2=findViewById(R.id.Num2);
         Button numero3=findViewById(R.id.Num3);
         Button numero4=findViewById(R.id.Num4);
